@@ -1,0 +1,10 @@
+# ============================== STUDENT TODO ==============================
+# Replace this example service with your own Request/Response fields.
+# Keep the `---` separator between Request and Response sections.
+# ========================================================================
+
+# Request
+uint16 number  # Number to increment
+---
+# Response
+uint16 incremented_value  # The incremented number (number + 1)

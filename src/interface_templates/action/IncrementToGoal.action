@@ -1,0 +1,15 @@
+# ============================== STUDENT TODO ==============================
+# Replace this example action with your own Goal/Result/Feedback fields.
+# Keep the `---` separators between Goal, Result, and Feedback sections.
+# ========================================================================
+
+# Goal
+uint16 target  # Target number to increment to
+---
+# Result
+bool success  # Whether the goal was achieved
+uint16 final_value  # The final value reached
+---
+# Feedback
+uint16 current_value  # Current value in the increment process
+string status  # Human-readable status message
