@@ -1,5 +1,6 @@
 # Template Packages Quick Reference
 
+
 ## Package Structure
 
 Use workspace search for `STUDENT TODO` to jump directly to all student customization points.
